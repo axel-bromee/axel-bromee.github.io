@@ -1,5 +1,5 @@
 
 function axelClick(){
-    alert("rectal difunction")
+    alert("nu har du köpt en tavla för 100.000kr")
 
 }

@@ -1,4 +1,5 @@
 
 function axelClick(){
-    fetch(StyleSheet)
+    alert("rectal difunction")
+
 }

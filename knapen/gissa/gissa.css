@@ -1,0 +1,17 @@
+@keyframes color {
+0% {background-color: rgb(0, 0, 63) ;}
+20% {background-color: rgb(0, 0, 103);}
+40% {background-color: rgb(0, 0, 121);}
+60% {background-color: rgb(0, 0, 166);}
+80% {background-color: rgb(0, 0, 216);}
+100% {background-color: rgb(0, 0, 255) ;}
+    
+}
+
+body {
+background: cornflowerblue;
+animation: color 2s infinite linear;
+text-align: center;
+padding: 2em;
+
+}

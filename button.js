@@ -1,5 +1,0 @@
-
-function axelClick(){
-    alert("hello")
-
-}

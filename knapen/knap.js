@@ -4,7 +4,7 @@ function plusClick() {
     console.log(sifra)
     document.getElementById("anal").innerHTML = sifra
 }
-const minusknap = dokument.getElementById("anal")
+const minusknap = document.getElementById("anal")
 minusknap.addEventlistener("click" ,minusClick)
 
 function minusClick(){

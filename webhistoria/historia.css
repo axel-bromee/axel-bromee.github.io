@@ -1,1 +1,21 @@
-body{background-color: rgb(0, 0, 0);}
+
+    html { 
+        background: url(valve.jpg) ;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+
+
+
+.center-content{
+    color: rgb(255, 202, 66);
+    margin-left: 18vw;
+    margin-right: 18vw;
+}
+a{
+color: red;
+
+
+}

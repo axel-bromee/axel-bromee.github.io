@@ -1,5 +1,7 @@
 
 body {
+  
+  
   margin: 0;
 }
 
@@ -30,4 +32,11 @@ li a:hover:not(.active) {
   background-color: #555;
   color: white;
 }
-h2 {margin-left:180px;}
+
+.main-content  {
+  margin-left:180px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+
